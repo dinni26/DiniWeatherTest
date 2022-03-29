@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\widya\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\widya\\.nuget\\packages"
+    ]
+  }
+}

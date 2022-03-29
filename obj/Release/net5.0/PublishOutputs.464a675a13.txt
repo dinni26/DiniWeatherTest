@@ -1,0 +1,11 @@
+C:\Users\widya\Documents\C#\sesi-13\DiniWeatherTest\bin\Release\net5.0\publish\DiniWeatherTest.exe
+C:\Users\widya\Documents\C#\sesi-13\DiniWeatherTest\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\widya\Documents\C#\sesi-13\DiniWeatherTest\bin\Release\net5.0\publish\appsettings.json
+C:\Users\widya\Documents\C#\sesi-13\DiniWeatherTest\bin\Release\net5.0\publish\DiniWeatherTest.dll
+C:\Users\widya\Documents\C#\sesi-13\DiniWeatherTest\bin\Release\net5.0\publish\DiniWeatherTest.deps.json
+C:\Users\widya\Documents\C#\sesi-13\DiniWeatherTest\bin\Release\net5.0\publish\DiniWeatherTest.runtimeconfig.json
+C:\Users\widya\Documents\C#\sesi-13\DiniWeatherTest\bin\Release\net5.0\publish\DiniWeatherTest.pdb
+C:\Users\widya\Documents\C#\sesi-13\DiniWeatherTest\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\widya\Documents\C#\sesi-13\DiniWeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\widya\Documents\C#\sesi-13\DiniWeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\widya\Documents\C#\sesi-13\DiniWeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
